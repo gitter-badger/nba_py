@@ -1,5 +1,7 @@
 # *nba_py - [stats.nba.com](http://stats.nba.com) API for python*
 
+[![Join the chat at https://gitter.im/seemethere/nba_py](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/seemethere/nba_py?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Summary
 A python facing API for stats.nba.com (Still in heavy development)
 
